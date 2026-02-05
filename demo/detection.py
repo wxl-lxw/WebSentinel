@@ -1,4 +1,3 @@
-from vllm import LLM, SamplingParams
 import json
 import os
 from openai import OpenAI

@@ -1,8 +1,11 @@
 # WebSentinel
 Official repo of [WebSentinel: Detecting and Localizing Prompt Injection Attacks for Web Agents](https://arxiv.org/abs/2602.03792)
 
+![WebSentinel](images/WebSentinel.pdf)
+
 # Quick Start
 ```
+pip install openai
 export OPENAI_API_KEY="your key"
 cd demo
 python detection.py
