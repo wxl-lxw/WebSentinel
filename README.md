@@ -11,6 +11,10 @@ cd demo
 python detection.py
 ```
 
+# Running WebSentinel
+
+TBD
+
 # Citation
 If you find this work useful, please kindly cite
 ```
